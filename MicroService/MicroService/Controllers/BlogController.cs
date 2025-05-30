@@ -19,7 +19,6 @@ namespace MicroServiceAPI.Controllers
             _mediator = mediator;
         }
 
-        // Get All Blogs 
         [HttpGet]
         public async Task<IActionResult> GetAllBlogs()
         {
