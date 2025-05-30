@@ -23,6 +23,7 @@ bld/
 [Ll]og/
 [Ll]ogs/
 .vs/
+.vs/MicroService/CopilotIndices/17.14.698.11175/
 
 # .NET Core
 project.lock.json
