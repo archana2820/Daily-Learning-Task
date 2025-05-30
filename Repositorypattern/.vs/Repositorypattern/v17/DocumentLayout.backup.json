@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|c:\\users\\administrator\\source\\repos\\repositorypattern\\webapplication2\\automappercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|solutionrelative:webapplication2\\automappercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|c:\\users\\administrator\\source\\repos\\repositorypattern\\webapplication2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|solutionrelative:webapplication2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|c:\\users\\administrator\\source\\repos\\repositorypattern\\webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|solutionrelative:webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|c:\\users\\administrator\\source\\repos\\repositorypattern\\webapplication2\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|solutionrelative:webapplication2\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|c:\\users\\administrator\\source\\repos\\repositorypattern\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|c:\\users\\administrator\\source\\repos\\repositorypattern\\webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|solutionrelative:webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|c:\\users\\administrator\\source\\repos\\repositorypattern\\webapplication2\\services\\implemantation\\weatherforecatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|solutionrelative:webapplication2\\services\\implemantation\\weatherforecatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|c:\\users\\administrator\\source\\repos\\repositorypattern\\webapplication2\\services\\implemantation\\weatherforecastserviceextended.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|solutionrelative:webapplication2\\services\\implemantation\\weatherforecastserviceextended.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|c:\\users\\administrator\\source\\repos\\repositorypattern\\webapplication2\\services\\interface\\iweatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47CEFFF-869D-4E6B-904A-5C07877769C3}|WebApplication2\\Repositorypattern.csproj|solutionrelative:webapplication2\\services\\interface\\iweatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMappercs.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\AutoMappercs.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\AutoMappercs.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\AutoMappercs.cs",
+              "RelativeToolTip": "WebApplication2\\AutoMappercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:38:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:01:28.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\StudentDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\StudentDto.cs",
+              "RelativeToolTip": "WebApplication2\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:57:36.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Student.cs",
+              "RelativeToolTip": "WebApplication2\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:57:23.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastserviceextended.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Services\\Implemantation\\WeatherForecastserviceextended.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\Implemantation\\WeatherForecastserviceextended.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Services\\Implemantation\\WeatherForecastserviceextended.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\Implemantation\\WeatherForecastserviceextended.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:31:49.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:28:40.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecatService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Services\\Implemantation\\WeatherForecatService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\Implemantation\\WeatherForecatService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Services\\Implemantation\\WeatherForecatService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\Implemantation\\WeatherForecatService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:17:00.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:15:32.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWeatherforecastService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Services\\Interface\\IWeatherforecastService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\Interface\\IWeatherforecastService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Repositorypattern\\WebApplication2\\Services\\Interface\\IWeatherforecastService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\Interface\\IWeatherforecastService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:14:49.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

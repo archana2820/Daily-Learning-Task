@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\MicroService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|c:\\users\\administrator\\source\\repos\\microservice\\microservice.application\\blogs\\commands\\deleteblog\\deleteblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|solutionrelative:microservice.application\\blogs\\commands\\deleteblog\\deleteblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC22F03-7544-4CFA-A354-2239BFA80EF9}|MicroServiceAPI.Domain\\MicroServiceAPI.Domain.csproj|c:\\users\\administrator\\source\\repos\\microservice\\microserviceapi.domain\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC22F03-7544-4CFA-A354-2239BFA80EF9}|MicroServiceAPI.Domain\\MicroServiceAPI.Domain.csproj|solutionrelative:microserviceapi.domain\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|c:\\users\\administrator\\source\\repos\\microservice\\microservice.application\\blogs\\commands\\updateblog\\updateblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|solutionrelative:microservice.application\\blogs\\commands\\updateblog\\updateblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|c:\\users\\administrator\\source\\repos\\microservice\\microservice.application\\blogs\\commands\\deleteblog\\deleteblogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|solutionrelative:microservice.application\\blogs\\commands\\deleteblog\\deleteblogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|c:\\users\\administrator\\source\\repos\\microservice\\microservice.application\\blogs\\commands\\updateblog\\updateblogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|solutionrelative:microservice.application\\blogs\\commands\\updateblog\\updateblogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319C9BE8-B39A-4AF5-ADC6-70DF93EBE584}|MicroService\\MicroServiceAPI.csproj|c:\\users\\administrator\\source\\repos\\microservice\\microservice\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319C9BE8-B39A-4AF5-ADC6-70DF93EBE584}|MicroService\\MicroServiceAPI.csproj|solutionrelative:microservice\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|c:\\users\\administrator\\source\\repos\\microservice\\microservice.application\\blogs\\commands\\createblog\\createblogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|solutionrelative:microservice.application\\blogs\\commands\\createblog\\createblogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|c:\\users\\administrator\\source\\repos\\microservice\\microservice.application\\blogs\\commands\\createblog\\createblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDD3820-EBC0-4A38-A7A1-029D5F21B7E4}|MicroService.Application\\MicroService.Application.csproj|solutionrelative:microservice.application\\blogs\\commands\\createblog\\createblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBlogCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommandHandler.cs",
+              "RelativeDocumentMoniker": "MicroService.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommandHandler.cs",
+              "RelativeToolTip": "MicroService.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:29:10.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteBlogCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommandHandler.cs",
+              "RelativeDocumentMoniker": "MicroService.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommandHandler.cs",
+              "RelativeToolTip": "MicroService.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:28:53.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateBlogCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommand.cs",
+              "RelativeDocumentMoniker": "MicroService.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommand.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommand.cs",
+              "RelativeToolTip": "MicroService.Application\\Blogs\\Commands\\UpdateBlog\\UpdateBlogCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:28:33.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteBlogCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommand.cs",
+              "RelativeDocumentMoniker": "MicroService.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommand.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommand.cs",
+              "RelativeToolTip": "MicroService.Application\\Blogs\\Commands\\DeleteBlog\\DeleteBlogCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:27:57.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "MicroService\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "MicroService\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:31:30.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IblogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroServiceAPI.Domain\\Repository\\IblogRepository.cs",
+              "RelativeDocumentMoniker": "MicroServiceAPI.Domain\\Repository\\IblogRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroServiceAPI.Domain\\Repository\\IblogRepository.cs",
+              "RelativeToolTip": "MicroServiceAPI.Domain\\Repository\\IblogRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:11:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBlogCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
+              "RelativeDocumentMoniker": "MicroService.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
+              "RelativeToolTip": "MicroService.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:17:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateBlogCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
+              "RelativeDocumentMoniker": "MicroService.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MicroService\\MicroService.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
+              "RelativeToolTip": "MicroService.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:18:04.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
